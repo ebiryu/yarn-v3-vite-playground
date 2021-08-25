@@ -1,0 +1,7 @@
+{
+  "name": "yarn-v3-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ebiryu <ryuta.ebihara@stockmark.co.jp>",
+  "license": "MIT"
+}
